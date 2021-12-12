@@ -7,6 +7,8 @@ It includes 41 features such as the zip code, area, types of request, status and
 
 ## Files:
 
+
+
 ### Top10.ipynb
 
 For the first part of the project, we chose the zip code 10019 to analyze the top 10 causes of calls in this specific area. 
